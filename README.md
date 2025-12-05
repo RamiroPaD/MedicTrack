@@ -31,32 +31,44 @@ Esta es una aplicacion de recordatorio de toma de medicamentos diriida a quellas
 
 ## Estructura del Proyecto
  ESTRUCTURA DE CARPETAS:
- app/src/main/java/mx/edu/utng/rpd/meditrack/
-  ├── models/
-  │   ├── Usuario.kt
-  │   ├── Medicamento.kt
-  │   ├── Recordatorio.kt
-  │   ├── Historial.kt
-  │   ├── Alergia.kt
-  │   └── MedicamentoAPI.kt
-  ├── repository/
-  │   ├── FirebaseRepository.kt
-  │   └── MedicamentosAPIRepository.kt
-  ├── viewmodels/
-  │   ├── AuthViewModel.kt
-  │   ├── MedicamentosViewModel.kt
-  │   └── RecordatoriosViewModel.kt 
-  ├── services/
-  │   ├── MediTrackMessagingService.kt
-  │   └── MedicationAlarmReceiver.kt
-  ├── utils/   
-  │   └── NotificationHelper.kt 
-  ├── MediTrackApplication.kt
-  └── MainActivity.kt
+```plaintext
+app/src/main/java/mx/edu/utng/rpd/meditrack/
+│
+├── models/
+│   ├── Usuario.kt
+│   ├── Medicamento.kt
+│   ├── Recordatorio.kt
+│   ├── Historial.kt
+│   ├── Alergia.kt
+│   └── MedicamentoAPI.kt
+│
+├── repository/
+│   ├── FirebaseRepository.kt
+│   └── MedicamentosAPIRepository.kt
+│
+├── viewmodels/
+│   ├── AuthViewModel.kt
+│   ├── MedicamentosViewModel.kt
+│   └── RecordatoriosViewModel.kt
+│
+├── services/
+│   ├── MediTrackMessagingService.kt
+│   └── MedicationAlarmReceiver.kt
+│
+├── utils/
+│   └── NotificationHelper.kt
+│
+├── MediTrackApplication.kt
+└── MainActivity.kt
+```
+---
+ 
+## 📘 Ejemplos de Código Documentado (KDoc / JSDoc)
 
-## Ejemplos de Código Documentado (KDoc / JSDoc)
-[Ejemplo](Ejemplo1.kt)
-[Ejemplo](Ejemplo2.kt)
+| Ejemplo | Archivo |
+|--------|----------|
+| Ejemplo 1 | [Ejemplo1.kt](Ejemplo1.kt) |
+| Ejemplo 2 | [Ejemplo2.kt](Ejemplo2.kt) |
 
 ## Autores
  Ramiro Padierna Delgado
