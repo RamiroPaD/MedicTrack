@@ -28,3 +28,31 @@ Esta es una aplicacion de recordatorio de toma de medicamentos diriida a quellas
 2. Abre el proyecto en Android Studio.
 3. Espera a que Gradle termine de compilar.
 4. Ejecuta la app en un emulador o dispositivo físico.
+
+## Estructura del Proyecto
+// ESTRUCTURA DE CARPETAS:
+// app/src/main/java/mx/edu/utng/rpd/meditrack/
+//   ├── models/
+//   │   ├── Usuario.kt
+//   │   ├── Medicamento.kt
+//   │   ├── Recordatorio.kt
+//   │   ├── Historial.kt
+//   │   ├── Alergia.kt
+//   │   └── MedicamentoAPI.kt
+//   ├── repository/
+//   │   ├── FirebaseRepository.kt
+//   │   └── MedicamentosAPIRepository.kt
+//   ├── viewmodels/
+//   │   ├── AuthViewModel.kt
+//   │   ├── MedicamentosViewModel.kt
+//   │   └── RecordatoriosViewModel.kt 
+//   ├── services/
+//   │   ├── MediTrackMessagingService.kt
+//   │   └── MedicationAlarmReceiver.kt
+//   ├── utils/
+//   │   └── NotificationHelper.kt 
+//   ├── MediTrackApplication.kt
+//   └── MainActivity.kt
+
+## Ejemplos de Código Documentado (KDoc / JSDoc)
+
