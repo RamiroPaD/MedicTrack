@@ -24,7 +24,7 @@ Esta es una aplicacion de recordatorio de toma de medicamentos diriida a quellas
 
 ## Instalación
 1. Clona este repositorio:
-   git clone https://github.com/tuusuario/MiAppMovil
+   [git clone https://github.com/tuusuario/MiAppMovil](https://github.com/RamiroPaD/MedicTrack.git)
 2. Abre el proyecto en Android Studio.
 3. Espera a que Gradle termine de compilar.
 4. Ejecuta la app en un emulador o dispositivo físico.
