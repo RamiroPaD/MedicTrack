@@ -13,4 +13,18 @@ Esta es una aplicacion de recordatorio de toma de medicamentos diriida a quellas
 8. Segiguimiento de aderencia en el medicamento
 
 ## Capturas de Pantalla
-![Pantallas]()
+![Pantallas](docs.pdf)
+
+## Tecnologias Utilizadas
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Firebase
+- Android Studio
+
+## Instalación
+1. Clona este repositorio:
+   git clone https://github.com/tuusuario/MiAppMovil
+2. Abre el proyecto en Android Studio.
+3. Espera a que Gradle termine de compilar.
+4. Ejecuta la app en un emulador o dispositivo físico.
