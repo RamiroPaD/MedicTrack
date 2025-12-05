@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036300481850",
+    "project_id": "meditrack-55395",
+    "storage_bucket": "meditrack-55395.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036300481850:android:d652ee81680fabcba68c03",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.rpd.meditrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwksGanBpKaEH_9oL0q9j7-xhqQo_H67o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
