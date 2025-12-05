@@ -71,5 +71,5 @@ app/src/main/java/mx/edu/utng/rpd/meditrack/
 | Ejemplo 2 | [Ejemplo2.kt](Ejemplo2.kt) |
 
 ## Autores
- Ramiro Padierna Delgado
- Carlos Emanuel Valentino Martinez
+- Ramiro Padierna Delgado
+- Carlos Emanuel Valentino Martinez
