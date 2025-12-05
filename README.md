@@ -70,6 +70,12 @@ app/src/main/java/mx/edu/utng/rpd/meditrack/
 | Ejemplo 1 | [Ejemplo1.kt](Ejemplo1.kt) |
 | Ejemplo 2 | [Ejemplo2.kt](Ejemplo2.kt) |
 
+## Links de video y Google Forms
+[GogleForms]([URL-del-enlace](https://docs.google.com/forms/d/e/1FAIpQLSeUkg87dMbwl0cXoMmAwbXHVL5Z_OjIhCUiU
+4L5DVxuuwFStQ/viewform?usp=header
+))
+[Youtube](https://youtu.be/KyDXJvJALZM)
+
 ## Autores
 - Ramiro Padierna Delgado
 - Carlos Emanuel Valentino Martinez
